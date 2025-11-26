@@ -2,3 +2,4 @@
 Dit is een aanpassing welke gedaan moest worden
 Deze aanpassing is om de demonstreren hoe Github Copilot can helpen met het maken van een omschrijving in je Commit.
 Dit is een aanpassing in de foute pull branche
+Dit is een aanpassing in de main branche
